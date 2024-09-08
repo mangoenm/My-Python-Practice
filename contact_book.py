@@ -3,6 +3,7 @@ Script that allows you to create a contact book. Add, edit, and delete contacts
 In addittion, you'll be able to view all your contacts and their details in one place.
 Save contacts to a db and csv.
 Must be configurable. Have a properties file that you can change and make the app save to a db or csv.
+https://chatgpt.com/share/770a5982-11bb-419a-ab86-755d6a72959e
 """
 
 # add contacts in lists (add name, add number)
